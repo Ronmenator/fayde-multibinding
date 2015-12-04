@@ -25,7 +25,6 @@ ConvertBack(Object, Type[], Object, CultureInfo)|Converts a binding target
 https://msdn.microsoft.com/en-us/library/system.windows.data.multibinding(v=vs.110).aspx
 
 ```
-[ContentPropertyAttribute("Bindings")]
 public class MultiBinding : BindingBase
 ```
 
