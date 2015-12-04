@@ -26,7 +26,7 @@ https://msdn.microsoft.com/en-us/library/system.windows.data.multibinding(v=vs.1
 
 ```
 [ContentPropertyAttribute("Bindings")]
-public class MultiBinding : BindingBase, IAddChild
+public class MultiBinding : BindingBase
 ```
 
 ###example
